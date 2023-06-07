@@ -5,4 +5,4 @@
   - контроля продажи алкоголя на кассе магазина
   - рекомендательной системы товаров по возрастным группам
 
-датасет фотографий взят [отсюда](http://chalearnlap.cvc.uab.es/dataset/26/description/). Также доступен по [ссылке](https://disk.yandex.ru/d/FpS1jc1_aTBCHA).
+Датасет фотографий взят [отсюда](http://chalearnlap.cvc.uab.es/dataset/26/description/). Также доступен по [ссылке](https://disk.yandex.ru/d/FpS1jc1_aTBCHA).
